@@ -1,0 +1,17 @@
+#testdisplay {
+}
+
+.fyre-logo-help{
+  display: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.shooter-name{
+  white-space: nowrap;
+  overflow: hidden
+}
